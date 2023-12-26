@@ -1,0 +1,35 @@
+_repo: Westward-hoboes_72267
+_version: 0.0.1
+contributor:
+  contributors:
+  - agent_name: Dixon, Rollin Lester
+    gutenberg_agent_id: '56626'
+    url: http://www.gutenberg.org/2009/agents/56626
+  - agent_name: Thaxter, Katherine
+    gutenberg_agent_id: '56627'
+    url: http://www.gutenberg.org/2009/agents/56627
+creator:
+  author:
+    agent_name: Dixon, Winifred Hawkridge
+    gutenberg_agent_id: '56625'
+    url: http://www.gutenberg.org/2009/agents/56625
+description: ''
+gutenberg_issued: '2023-11-30'
+identifiers:
+  gutenberg: '72267'
+language: en
+pgterms:marc904: https://archive.org/details/westwardhoboes00dixo
+pgterms:marc905: 20211115130000dixon
+pgterms:marc906: '1921'
+pgterms:marc907: us
+production_note: Alan, Peter Becker and the Online Distributed Proofreading Team at
+  https://www.pgdp.net (This file was produced from images generously made available
+  by The Internet Archive)
+publication_note: '  $aNew York :$bC. Scribner''s sons, $c1921.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Westward hoboes
+url: http://www.gutenberg.org/ebooks/72267
