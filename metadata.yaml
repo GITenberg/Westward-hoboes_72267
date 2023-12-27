@@ -8,12 +8,17 @@ contributor:
   - agent_name: Thaxter, Katherine
     gutenberg_agent_id: '56627'
     url: http://www.gutenberg.org/2009/agents/56627
+covers:
+- cover_type: archival
+  image_path: 72267-h/images/cover.jpg
 creator:
   author:
     agent_name: Dixon, Winifred Hawkridge
     gutenberg_agent_id: '56625'
     url: http://www.gutenberg.org/2009/agents/56625
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/72267#Westward-hoboes
 gutenberg_issued: '2023-11-30'
 identifiers:
   gutenberg: '72267'
